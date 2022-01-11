@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jinxin Wang"
   avatar           : "jxwang.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Jinxin Wang is currently a graduate student at College of Computer Science and Artificial Intelligence, Wenzhou University, China. He received his bachelor’s degree in information and computing science at Wenzhou University. His research interests include visual tracking, image generation and deep learning."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=sAd6X00AAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/shuyuandeqipa"
   google_plus      :
   keybase          :
   instagram        :
