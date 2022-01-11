@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Representative papers"
 permalink: / 
 author_profile: true
 
