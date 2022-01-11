@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Jinxin Wang"
   avatar           : "jxwang.jpg"
-  bio              : "Jinxin Wang is currently a graduate student at College of Computer Science and Artificial Intelligence, Wenzhou University, China. He received his bachelor’s degree in information and computing science at Wenzhou University. His research interests include visual tracking, image generation and deep learning."
+  bio              : "Jinxin Wang is currently a graduate student at College of Computer Science and Artificial Intelligence, Wenzhou University, China. He received his bachelor’s degree in information and computing science at Wenzhou University.
+  His research interests include computer vision,  learning theory and reinforcement learning."
   location         : "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
