@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinxin Wang / Site Title"
+title                    : "Jinxin Wang / Machine Learning"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
