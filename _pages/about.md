@@ -12,11 +12,11 @@ author_profile: true
 
 2. <font color ="black">Xiaoqin Zhang, ***Jinxin Wan***g,Tao Wang, Runhua Jiang,  </font><font size=3 color ="blue">**Hierarchical feature fusion with mixed convolution attention for single image dehazing** ,</font> <font color ="red">IEEE Transactions on Circuits and Systems for Video Technology, 2021.</font>
 
-​        [Paper Published Page](https://ieeexplore.ieee.org/abstract/document/9381290) | ([Or Download PDF Here !](https://shuyuandeqipa.github.io/files/paper2.pdf) )
+   [Paper Published Page](https://ieeexplore.ieee.org/abstract/document/9381290) | ([Or Download PDF Here !](https://shuyuandeqipa.github.io/files/paper2.pdf) )
 
 3. <font color ="black">Ruoxi Deng, Shengjun Liu , ***Jinxin Wang***, Huibing Wang, Hanli Zhao, Xiaoqin Zhang, </font><font size=3 color ="blue">**Learning to Decode Contextual Information for Efficient Contour Detection** ,</font> <font color ="red">In Proceedings of the 29th ACM International Conference on Multimedia (MM ’21), 2021.</font> 
 
-​        [Paper Published Page](https://dl.acm.org/doi/abs/10.1145/3474085.3475593) | ([Or Download PDF Here !](https://shuyuandeqipa.github.io/files/paper3.pdf) )
+   [Paper Published Page](https://dl.acm.org/doi/abs/10.1145/3474085.3475593) | ([Or Download PDF Here !](https://shuyuandeqipa.github.io/files/paper3.pdf) )
 
 4. <font color ="black">Xiaoqin Zhang, Tao Wang, ***Jinxin Wang***, Guiying Tang, Li Zhao*, </font><font size=3 color ="blue">**Pyramid Channel- based Feature Attention Network for Image Dehazing** ,</font> <font color ="red">Computer Vision and Image Understanding, 2020. </font>
 
